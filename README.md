@@ -1,4 +1,5 @@
 # DeepX-Hackathon-2026 ( NLP )
+![Screenshot](image.png)
 
 ## 🚀Aspect-Based Sentiment Analysis (ABSA)
 
