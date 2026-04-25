@@ -1,4 +1,6 @@
-# 🚀 Aspect-Based Sentiment Analysis (ABSA)
+# DeepX-Hackathon-2026 ( NLP )
+
+## 🚀Aspect-Based Sentiment Analysis (ABSA)
 
 A production-style **Arabic Aspect-Based Sentiment Analysis system** designed to understand **real-world, noisy customer feedback** and analyze sentiment for each mentioned aspect individually.
 
@@ -62,14 +64,15 @@ food, service, price, cleanliness, delivery, ambiance, app_experience, general, 
 
 ### 🔹 Aspect Extraction Model
 
-* F1 Score (Micro): **XX.XX%**
-* Precision: **XX.XX%**
-* Recall: **XX.XX%**
+* F1 Score (Micro): **85.8%**
+* Precision: **85%**
+* Recall: **86%**
 
 ### 🔹 Sentiment Classification Model
 
-* Accuracy: **XX.XX%**
-* F1 Score: **XX.XX%**
+* Accuracy: **94.2%**
+* F1 Score: **94%**
+* Precision: **90%**
 
 ---
 
