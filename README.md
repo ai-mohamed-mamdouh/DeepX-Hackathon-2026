@@ -162,8 +162,8 @@ pip install -r requirements.txt
 ### 4️⃣ Download Models
 
 Download trained models from Google Drive:
-
-👉 **[PUT YOUR DRIVE LINK HERE]**
+* 👉 **aspect_model** : **[https://drive.google.com/drive/folders/1ZYGM01hAvRzQ7NugobkaWyW0BTDvyE7R?usp=sharing]**
+* 👉 **sentiment_model** : **[https://drive.google.com/drive/folders/1DhjNplnKGotTMFBISaGVTvtVvoSfx7sB?usp=sharing]**
 
 After downloading:
 
