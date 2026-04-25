@@ -107,7 +107,7 @@ food, service, price, cleanliness, delivery, ambiance, app_experience, general, 
 ---
 
 ## 🖥️ Demo (UI)
-
+![Demo](Demo.gif)
 We built a modern interactive dashboard using **Streamlit** that allows users to:
 
 * Input customer reviews
