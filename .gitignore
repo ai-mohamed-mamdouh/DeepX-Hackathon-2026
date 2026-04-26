@@ -2,3 +2,4 @@
 .venv
 /models
 /dataSet
+/__pycache__
