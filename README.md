@@ -61,8 +61,6 @@ food, service, price, cleanliness, delivery, ambiance, app_experience, general, 
 
 ## 📊 Model Performance
 
-> ⚠️ Replace these values with your real results
-
 ### 🔹 Aspect Extraction Model
 
 * F1 Score (Micro): **85.8%**
