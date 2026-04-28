@@ -234,7 +234,8 @@ The solution is evaluated based on:
 * Production-ready UI
 
 ---
-
+## Certifications
+![DeepX-Hackathon-2026 Certificate](DeepX.jpeg)
 ## 👨‍💻 Team
 
 > Add your team info here
@@ -244,7 +245,6 @@ The solution is evaluated based on:
 ## 📌 Future Work
 
 * Improve low-resource aspect detection
-* Add multilingual support
 * Deploy as API
 * Integrate real-time feedback systems
 
